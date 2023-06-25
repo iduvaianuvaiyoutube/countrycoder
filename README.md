@@ -28,4 +28,4 @@ To use the program, follow these steps:
 
 This program was developed by IDUVA 🇱🇰. If you have any questions, feel free to reach out to me on WhatsApp at [wa.me/94762928804](https://wa.me/94762928804).
 
-https://github.com/iduvaianuvaiyoutube/countrycoder/tree/main
+https://github.com/iduvaianuvaiyoutube/countrycoder.git
