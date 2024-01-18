@@ -7,7 +7,7 @@ A simple Python program that allows you to look up country names based on their 
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Run on Termux](#termux)
+- [Run-on-Termux](#run-on-termux)
 - [Contact](#contact)
   
 
@@ -26,7 +26,7 @@ To use the program, follow these steps:
 
 **Note:** When entering a country name, ensure the first letter is capitalized.
 
-## Run on Termux
+## Run-on-Termux
 
 ## Contact
 
