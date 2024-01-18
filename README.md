@@ -7,7 +7,9 @@ A simple Python program that allows you to look up country names based on their 
 
 - [Introduction](#introduction)
 - [Usage](#usage)
+- [Run on Termux](#termux)
 - [Contact](#contact)
+  
 
 ## Introduction
 
@@ -24,8 +26,12 @@ To use the program, follow these steps:
 
 **Note:** When entering a country name, ensure the first letter is capitalized.
 
+## Run on Termux
+
 ## Contact
 
 This program was developed by IDUVA 🇱🇰. If you have any questions, feel free to reach out to me on WhatsApp at [wa.me/94762928804](https://wa.me/94762928804).
 
 https://github.com/iduvaianuvaiyoutube/countrycoder.git
+
+
